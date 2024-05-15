@@ -16,7 +16,7 @@ SRC_DIR = src/
 
 OBJ_DIR = obj/
 
-SRC =	main 
+SRC =	main stack index rotate sort_three swap reverse_rotate cost do_moves push position  sort
 
 SRC_FILES = $(addprefix $(SRC_DIR), $(addsuffix .c, $(SRC)))
 
